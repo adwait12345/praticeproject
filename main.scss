@@ -17,7 +17,9 @@ a {
 img {width: 100%;}
 
 .nav-container {
-    background:#6700EE ;
+    background:linear-gradient(
+90deg
+, #6700EE, pink); 
 
     a{
         color: white;
@@ -206,7 +208,9 @@ section {
         background: unset;
 
         header {
-            background:  #6700EE;
+            background: linear-gradient(
+90deg
+, #6700EE, pink);
         }
     }
     header {
