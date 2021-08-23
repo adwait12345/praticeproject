@@ -223,9 +223,9 @@ section {
     height: 90vh;
   }
   .nav-container {
-    display: -ms-grid;
+    
     display: grid;
-    -ms-grid-columns: 66% auto;
+   
         grid-template-columns: 66% auto;
     background: unset;
   }
