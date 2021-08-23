@@ -58,7 +58,7 @@ header ul a {
 }
 
 .hero {
-  background: #6E00FF;
+  background: linear-gradient(90deg, #6700EE, pink);
   color: white;
   display: -ms-grid;
   display: grid;
